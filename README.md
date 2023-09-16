@@ -21,7 +21,7 @@ GhostESP introduces additional enhancements for your ESP32
 
 ## Contributing
 
-Contributions are not open to the public unless explicitly approved. If you have suggestions or feedback, please reach out directly.
+If you have suggestions or feedback, please reach out directly.
 
 ## License
 
