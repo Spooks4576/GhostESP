@@ -6,7 +6,7 @@ A Firmware for the ESP32 targeted for use with Flipper Devices.
 
 ## Features
 
-Based on the features of [Marauder Firmware](https://github.com/justcallmekoko/ESP32Marauder), GhostESP introduces additional enhancements:
+GhostESP introduces additional enhancements for your ESP32
 
 1. **DIAL Device Control**: Control DIAL devices such as smart TVs. Supports the DIAL protocol with full YouTube App video playback and Netflix app launching. *(Open to further app support based on community requests)*.
 2. **Google Cast Device Control**: Control devices using the Google CASTV2 protocol. Currently supports YouTube playback with more features in the pipeline.
