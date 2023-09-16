@@ -2,7 +2,7 @@
 
 A Firmware for the ESP32 targeted for use with Flipper Devices.
 
-![GhostESP Logo](path_to_your_logo.png)
+![GhostESP Logo]([path_to_your_logo.png](https://cdn.discordapp.com/attachments/985748552766615594/1152413693229932554/Spooky_Logo.png))
 
 ## Features
 
